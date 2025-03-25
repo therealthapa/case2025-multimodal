@@ -1,18 +1,20 @@
 # Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in LGBTQ+ Socio-Political Movement Discourse at CASE 2025
 
-## Sub-task A ##
+The complexity of text-embedded images presents a formidable challenge in ML given the need for multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
+
+## Sub-task 1 ##
 
 **Detection of Hate Speech:** The aim is to detect the presence of hate speech in the images. The dataset for this task will have binary labels: _No Hate_ and _Hate_.
 
-## Sub-task B ##
+## Sub-task 2 ##
 
 **Classifying the Targets of Hate Speech:** Given that an image is hateful, the goal here is to identify the targets of hate speech. The dataset here will have four labels: _Undirected_, _Individual_, _Community_, and _Organization_.
 
-## Sub-task C ##
+## Sub-task 3 ##
 
 **Classification of Topical Stance:** The goal is to classify images based on their stance towards the LGBTQ+ movement. The dataset will have three labels: _Neutral_, _Support_, and _Oppose_.
 
-## Sub-task D ##
+## Sub-task 4 ##
 
 **Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
@@ -24,6 +26,44 @@ All the images have a unique identifier called "index". The labels for training 
 ## Instructions for OCR Extraction ##
 
 ## Evaluation ## 
+
+All the images have a unique identifier called "index". The labels for training data are organized in the folder
+provided. For evaluation and testing, the script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. To submit the files, name your submission as submission.json and zip it with the file name, ref.zip. Make sure that the
+zip does not have any sub-directories. The
+system only recognizes the first file in the zip folder, so do not zip multiple files together i.e. your ref.zip
+file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
+
+A sample file is available at X.
+
+IMPORTANT: Make sure that the index order in the submission file in JSON is in ascending order. For example:
+
+```python
+
+{"index": 20568, "prediction": 1}
+{"index": 30987, "prediction": 0}
+{"index": 45805, "prediction": 0}
+```
+
+<h3>Subtask 1</h3>
+
+The Non-Hate label should be assigned '0', and the Hate label should be assigned '1'. 
+
+<h3>Subtask 2</h3>
+
+The Undirected label should be assigned '0', the Individual label should be assigned '1', the Community label should be assigned '2', and the Organization label should be assigned '3'.
+
+<h3>Subtask 3</h3>
+
+The Neutral label should be assigned '0', the Support label should be assigned '1',and the Oppose label should be assigned '3'.
+
+<h3>Subtask 4</h3>
+
+The No Humor label should be assigned '0', and the Humor label should be assigned '1'. 
+
+For all Subtasks, the performance will be ranked by F1 score.
+
+To read more about the evaluation criteria, please refer to <a href="https://github.com/therealthapa/case2025-multimodal/tree/main">this page</a>.
+
 
 ## Publication ##
 
