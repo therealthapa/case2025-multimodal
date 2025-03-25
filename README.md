@@ -28,14 +28,14 @@ All the images have a unique identifier called "index". The labels for training 
 ## Evaluation ## 
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder
-provided. For evaluation and testing, the script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. To submit the files, name your submission as submission.json and zip it with the file name, ref.zip. Make sure that the
+provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file submission.json and zip it with the file name ref.zip. Ensure that the
 zip does not have any sub-directories. The
-system only recognizes the first file in the zip folder, so do not zip multiple files together i.e. your ref.zip
+system only recognizes the first file in the zip folder, so do not zip multiple files together, i.e. your ref.zip
 file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
 
 A sample file is available at X.
 
-IMPORTANT: Make sure that the index order in the submission file in JSON is in ascending order. For example:
+IMPORTANT: Ensure that the index order in the submission file in JSON is in ascending order. For example:
 
 ```python
 
@@ -54,7 +54,7 @@ The Undirected label should be assigned '0', the Individual label should be assi
 
 <h3>Subtask 3</h3>
 
-The Neutral label should be assigned '0', the Support label should be assigned '1',and the Oppose label should be assigned '3'.
+The Neutral label should be assigned '0', the Support label should be assigned '1', and the Oppose label should be assigned '3'.
 
 <h3>Subtask 4</h3>
 
@@ -64,6 +64,7 @@ For all Subtasks, the performance will be ranked by F1 score.
 
 To read more about the evaluation criteria, please refer to <a href="https://github.com/therealthapa/case2025-multimodal/tree/main">this page</a>.
 
+For the hate detection task, the dataset has a balanced distribution of binary labels. The target classification task exhibits a heavily imbalanced distribution. Given the context of this study, most hateful images convey undirected hate or are targeted toward communities, with a low frequency of hate against individuals and organizations. For the stance classification task, the number of images is well-balanced across the three labels. On the other hand, as memes are often meant to be humorous, the majority of the images in the dataset are annotated as humor.
 
 ## Publication ##
 
