@@ -1,5 +1,25 @@
 # Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in LGBTQ+ Socio-Political Movement Discourse at CASE 2025
 
+## Sub-task A ##
+
+## Sub-task B ##
+
+## Sub-task C ##
+
+## Sub-task D ##
+
+## Participation ##
+
+## Dataset ## 
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
+
+## Instructions for OCR Extraction ##
+
+## Evaluation ## 
+
+## Publication ##
+
+Participants in the Shared Task are expected to submit a paper to the CASE workshop. Submitting a paper is not mandatory for participating in the Shared Task. Papers must follow the CASE 2025 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in ACL Anthology.
 
 ## Timeline of the Events ##
 <ul>
