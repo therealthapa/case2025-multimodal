@@ -2,11 +2,19 @@
 
 ## Sub-task A ##
 
+**Detection of Hate Speech:** The aim is to detect the presence of hate speech in the images. The dataset for this task will have binary labels: _No Hate_ and _Hate_.
+
 ## Sub-task B ##
+
+**Classifying the Targets of Hate Speech:** Given that an image is hateful, the goal here is to identify the targets of hate speech. The dataset here will have four labels: _Undirected_, _Individual_, _Community_, and _Organization_.
 
 ## Sub-task C ##
 
+**Classification of Topical Stance:** The goal is to classify images based on their stance towards the LGBTQ+ movement. The dataset will have three labels: _Neutral_, _Support_, and _Oppose_.
+
 ## Sub-task D ##
+
+**Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
 ## Participation ##
 
@@ -59,3 +67,5 @@ If there are any questions related to the competition, please contact shuvam@vt.
 
 ## References ##
 Will be provided later.
+
+
