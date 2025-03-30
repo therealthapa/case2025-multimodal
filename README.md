@@ -24,14 +24,11 @@ The complexity of text-embedded images presents a formidable challenge in ML giv
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
 ## Instructions for OCR Extraction ##
+If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper from ______. 
 
 ## Evaluation ## 
 
-All the images have a unique identifier called "index". The labels for training data are organized in the folder
-provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file submission.json and zip it with the file name ref.zip. Ensure that the
-zip does not have any sub-directories. The
-system only recognizes the first file in the zip folder, so do not zip multiple files together, i.e. your ref.zip
-file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file submission.json and zip it with the file name ref.zip. Ensure that the zip does not have any sub-directories. The system only recognizes the first file in the zip folder, so do not zip multiple files together, i.e. your ref.zip file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
 
 A sample file is available at X.
 
