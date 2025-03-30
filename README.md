@@ -1,6 +1,6 @@
 # Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in LGBTQ+ Socio-Political Movement Discourse at CASE 2025
 
-The complexity of text-embedded images presents a formidable challenge in ML given the need for multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
+The complexity of text-embedded images presents a formidable challenge in machine learning, given the need for a multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
 
 ## Subtask A ##
 
@@ -30,25 +30,24 @@ All the images have a unique identifier called "index". The labels for training 
 
 Subtask A: https://drive.google.com/drive/folders/1MX0avEqon16drjLqomwezX8_rl9_XJVC?usp=drive_link
 
-Subtask B: 
+Subtask B: https://drive.google.com/drive/folders/12GqvPap_z0RMtG7W-_s9mEXVD_pKZB48?usp=drive_link
 
-Subtask C:
+Subtask C: https://drive.google.com/drive/folders/11aGvgClKcKJvgDoqt7EJzhajYhs0A4vd?usp=sharing
 
-Subtask D:
+Subtask D: https://drive.google.com/drive/folders/151BJaSNiLVMSUNvCtQJStM4tTjMo4RZa?usp=sharing
 
 
 **Evaluation Data (Without Labels)**
 
-Subtask A:
+Subtask A: https://drive.google.com/drive/folders/1Fe-QiD_d826vX0q8a-n2-o1Q63uJfoGm?usp=sharing
 
-Subtask B: 
+Subtask B: https://drive.google.com/drive/folders/1EN3WHaMCE0smNxIQwaFBVZ4Sb_kXtojK?usp=sharing
 
-Subtask C:
+Subtask C: https://drive.google.com/drive/folders/1Zovy8hcqsNFeUAUCuJIWWOsQ7TC9vpQr?usp=sharing
 
-Subtask D:
+Subtask D: https://drive.google.com/drive/folders/1UbukqpwOQTRQnEXyceK2Dw48ObpFqUXm?usp=sharing
 
-
-Evaluation Data Labels: 
+Evaluation Data Labels: https://drive.google.com/drive/folders/1DJaYJxRH7qBRwRSHXGhr1PU98HyK9sBJ?usp=sharing
 
 **Test Data**
 
@@ -64,7 +63,13 @@ Subtask D: Available May 05, 2025
 Test Data Labels: Available June 25, 2025
 
 ## Instructions for OCR Extraction ##
-If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper from ______. 
+If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper.
+
+Extracted Text for Train Data: https://drive.google.com/drive/folders/1YYUD8DxhyI3-xxq-hXSXeLpVFFaNIjN1?usp=sharing
+
+Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2ZiWj50eqDGHB9YEBmw5u5ArO9oIe?usp=sharing
+
+Extracted Text for Test Data: Available May 05, 2025
 
 ## Evaluation ## 
 
