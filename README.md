@@ -65,9 +65,9 @@ Test Data Labels: Available June 25, 2025
 ## Instructions for OCR Extraction ##
 If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper.
 
-Extracted Text for Train Data: https://drive.google.com/drive/folders/1YYUD8DxhyI3-xxq-hXSXeLpVFFaNIjN1?usp=sharing
+Extracted Text for Train Data: https://drive.google.com/drive/folders/1YYUD8DxhyI3-xxq-hXSXeLpVFFaNIjN1
 
-Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2ZiWj50eqDGHB9YEBmw5u5ArO9oIe?usp=sharing
+Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2ZiWj50eqDGHB9YEBmw5u5ArO9oIe
 
 Extracted Text for Test Data: Available May 05, 2025
 
