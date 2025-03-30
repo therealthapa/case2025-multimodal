@@ -28,7 +28,7 @@ All the images have a unique identifier called "index". The labels for training 
 
 **Training Data**
 
-Subtask A:
+Subtask A: https://drive.google.com/drive/folders/1MX0avEqon16drjLqomwezX8_rl9_XJVC?usp=drive_link
 
 Subtask B: 
 
