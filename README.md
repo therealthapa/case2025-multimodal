@@ -18,6 +18,8 @@ The complexity of text-embedded images presents a formidable challenge in ML giv
 
 **Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
+**To know more about the dataset**: please refer to our [paper](https://doi.org/10.18653/v1/2024.emnlp-main.959).
+
 ## Participation ##
 Join our codalab competition here.
 
