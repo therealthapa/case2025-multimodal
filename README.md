@@ -96,7 +96,7 @@ The Undirected label should be assigned '0', the Individual label should be assi
 
 <h3>Subtask 3</h3>
 
-The Neutral label should be assigned '0', the Support label should be assigned '1', and the Oppose label should be assigned '3'.
+The Neutral label should be assigned '0', the Support label should be assigned '1', and the Oppose label should be assigned '2'.
 
 <h3>Subtask 4</h3>
 
