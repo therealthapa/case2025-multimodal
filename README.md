@@ -19,9 +19,32 @@ The complexity of text-embedded images presents a formidable challenge in ML giv
 **Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
 ## Participation ##
+Join our codalab competition here.
 
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
+
+Training Data
+Subtask A:
+Subtask B: 
+Subtask C:
+Subtask D:
+
+Evaluation Data (Without Labels)
+Subtask A:
+Subtask B: 
+Subtask C:
+Subtask D:
+
+Evaluation Data Labels: 
+
+Test Data
+Subtask A: Available May 05, 2025
+Subtask B: Available May 05, 2025
+Subtask C: Available May 05, 2025
+Subtask D: Available May 05, 2025
+
+Test Data Labels: Available June 25, 2025
 
 ## Instructions for OCR Extraction ##
 If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper from ______. 
