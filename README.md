@@ -2,19 +2,19 @@
 
 The complexity of text-embedded images presents a formidable challenge in ML given the need for multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
 
-## Sub-task 1 ##
+## Subtask A ##
 
 **Detection of Hate Speech:** The aim is to detect the presence of hate speech in the images. The dataset for this task will have binary labels: _No Hate_ and _Hate_.
 
-## Sub-task 2 ##
+## Subtask B ##
 
 **Classifying the Targets of Hate Speech:** Given that an image is hateful, the goal here is to identify the targets of hate speech. The dataset here will have four labels: _Undirected_, _Individual_, _Community_, and _Organization_.
 
-## Sub-task 3 ##
+## Subtask C ##
 
 **Classification of Topical Stance:** The goal is to classify images based on their stance towards the LGBTQ+ movement. The dataset will have three labels: _Neutral_, _Support_, and _Oppose_.
 
-## Sub-task 4 ##
+## Subtask D ##
 
 **Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
@@ -24,25 +24,40 @@ Join our codalab competition here.
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
-Training Data
+**Training Data**
+
 Subtask A:
+
 Subtask B: 
+
 Subtask C:
+
 Subtask D:
 
-Evaluation Data (Without Labels)
+
+**Evaluation Data (Without Labels)**
+
 Subtask A:
+
 Subtask B: 
+
 Subtask C:
+
 Subtask D:
+
 
 Evaluation Data Labels: 
 
-Test Data
+**Test Data**
+
 Subtask A: Available May 05, 2025
+
 Subtask B: Available May 05, 2025
+
 Subtask C: Available May 05, 2025
+
 Subtask D: Available May 05, 2025
+
 
 Test Data Labels: Available June 25, 2025
 
