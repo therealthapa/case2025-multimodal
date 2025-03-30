@@ -86,19 +86,19 @@ IMPORTANT: Ensure that the index order in the submission file in JSON is in asce
 {"index": 45805, "prediction": 0}
 ```
 
-<h3>Subtask 1</h3>
+<h3>Subtask A</h3>
 
 The Non-Hate label should be assigned '0', and the Hate label should be assigned '1'. 
 
-<h3>Subtask 2</h3>
+<h3>Subtask B</h3>
 
 The Undirected label should be assigned '0', the Individual label should be assigned '1', the Community label should be assigned '2', and the Organization label should be assigned '3'.
 
-<h3>Subtask 3</h3>
+<h3>Subtask C</h3>
 
 The Neutral label should be assigned '0', the Support label should be assigned '1', and the Oppose label should be assigned '2'.
 
-<h3>Subtask 4</h3>
+<h3>Subtask D</h3>
 
 The No Humor label should be assigned '0', and the Humor label should be assigned '1'. 
 
