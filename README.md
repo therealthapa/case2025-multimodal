@@ -28,26 +28,26 @@ All the images have a unique identifier called "index". The labels for training 
 
 **Training Data**
 
-Subtask A: https://drive.google.com/drive/folders/1MX0avEqon16drjLqomwezX8_rl9_XJVC?usp=drive_link
+Subtask A: https://drive.google.com/drive/folders/1MX0avEqon16drjLqomwezX8_rl9_XJVC
 
-Subtask B: https://drive.google.com/drive/folders/12GqvPap_z0RMtG7W-_s9mEXVD_pKZB48?usp=drive_link
+Subtask B: https://drive.google.com/drive/folders/12GqvPap_z0RMtG7W-_s9mEXVD_pKZB48
 
-Subtask C: https://drive.google.com/drive/folders/11aGvgClKcKJvgDoqt7EJzhajYhs0A4vd?usp=sharing
+Subtask C: https://drive.google.com/drive/folders/11aGvgClKcKJvgDoqt7EJzhajYhs0A4vd
 
-Subtask D: https://drive.google.com/drive/folders/151BJaSNiLVMSUNvCtQJStM4tTjMo4RZa?usp=sharing
+Subtask D: https://drive.google.com/drive/folders/151BJaSNiLVMSUNvCtQJStM4tTjMo4RZa
 
 
 **Evaluation Data (Without Labels)**
 
-Subtask A: https://drive.google.com/drive/folders/1Fe-QiD_d826vX0q8a-n2-o1Q63uJfoGm?usp=sharing
+Subtask A: https://drive.google.com/drive/folders/1Fe-QiD_d826vX0q8a-n2-o1Q63uJfoGm
 
-Subtask B: https://drive.google.com/drive/folders/1EN3WHaMCE0smNxIQwaFBVZ4Sb_kXtojK?usp=sharing
+Subtask B: https://drive.google.com/drive/folders/1EN3WHaMCE0smNxIQwaFBVZ4Sb_kXtojK
 
-Subtask C: https://drive.google.com/drive/folders/1Zovy8hcqsNFeUAUCuJIWWOsQ7TC9vpQr?usp=sharing
+Subtask C: https://drive.google.com/drive/folders/1Zovy8hcqsNFeUAUCuJIWWOsQ7TC9vpQr
 
-Subtask D: https://drive.google.com/drive/folders/1UbukqpwOQTRQnEXyceK2Dw48ObpFqUXm?usp=sharing
+Subtask D: https://drive.google.com/drive/folders/1UbukqpwOQTRQnEXyceK2Dw48ObpFqUXm
 
-Evaluation Data Labels: https://drive.google.com/drive/folders/1DJaYJxRH7qBRwRSHXGhr1PU98HyK9sBJ?usp=sharing
+Evaluation Data Labels: https://drive.google.com/drive/folders/1DJaYJxRH7qBRwRSHXGhr1PU98HyK9sBJ
 
 **Test Data**
 
