@@ -71,6 +71,9 @@ Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2
 
 Extracted Text for Test Data: Available May 05, 2025
 
+## Use of External Data ##
+The use of external datasets is permitted. You should also mention your external data usage in your paper write-up. A good competition-standard data that has hate speech and targets could be [CrisisHateMM dataset](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html), which can be found [here](https://github.com/therealthapa/case2024-multimodal-hate). We have provided all training, evaluation, and testing datasets with labels. This data was used in shared tasks on multimodal hate speech event detection during [CASE 2023](https://aclanthology.org/2023.case-1.20/) and [CASE 2024](https://aclanthology.org/2024.case-1.31/). 
+
 ## Evaluation ## 
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file submission.json and zip it with the file name ref.zip. Ensure that the zip does not have any sub-directories. The system only recognizes the first file in the zip folder, so do not zip multiple files together, i.e. your ref.zip file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
