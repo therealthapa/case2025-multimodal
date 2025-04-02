@@ -78,15 +78,13 @@ The use of external datasets is permitted. You should also mention your external
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file submission.json and zip it with the file name ref.zip. Ensure that the zip does not have any sub-directories. The system only recognizes the first file in the zip folder, so do not zip multiple files together, i.e. your ref.zip file should contain a single submission.json file. The files can have any names. The JSON file infers the label predicted by the algorithm for a specific image with a unique index.
 
-A sample file is available at X.
-
 IMPORTANT: Ensure that the index order in the submission file in JSON is in ascending order. For example:
 
 ```python
 
-{"index": 20568, "prediction": 1}
-{"index": 30987, "prediction": 0}
-{"index": 45805, "prediction": 0}
+{"index": 20568.png, "prediction": 1}
+{"index": 30987.png, "prediction": 0}
+{"index": 45805.png, "prediction": 0}
 ```
 
 <h3>Subtask A</h3>
