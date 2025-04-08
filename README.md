@@ -1,5 +1,7 @@
 # Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in LGBTQ+ Socio-Political Movement Discourse at CASE 2025
 
+[Competition Link](https://codalab.lisn.upsaclay.fr/competitions/22463) 
+
 The complexity of text-embedded images presents a formidable challenge in machine learning, given the need for a multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
 
 ## Subtask A ##
@@ -151,7 +153,7 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 ## Timeline of the Events ##
 <ul>
 
-<li>Training & Evaluation data available: April 4, 2025 </li>
+<li>Training & Evaluation data available: April 08, 2025 </li>
 
 <li>Test data available: May 05, 2025 </li>
 
