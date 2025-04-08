@@ -59,7 +59,6 @@ Subtask C: Available May 05, 2025
 
 Subtask D: Available May 05, 2025
 
-
 Test Data Labels: Available June 25, 2025
 
 ## Instructions for OCR Extraction ##
@@ -91,17 +90,53 @@ IMPORTANT: Ensure that the index order in the submission file in JSON is in asce
 
 The Non-Hate label should be assigned '0', and the Hate label should be assigned '1'. 
 
+For example:
+
+```python
+
+{"index": 20568.png, "prediction": 1}
+{"index": 30987.png, "prediction": 0}
+{"index": 45805.png, "prediction": 0}
+```
+
 <h3>Subtask B</h3>
 
 The Undirected label should be assigned '0', the Individual label should be assigned '1', the Community label should be assigned '2', and the Organization label should be assigned '3'.
+
+For example:
+
+```python
+
+{"index": 20568.png, "prediction": 1}
+{"index": 30987.png, "prediction": 0}
+{"index": 45805.png, "prediction": 2}
+```
 
 <h3>Subtask C</h3>
 
 The Neutral label should be assigned '0', the Support label should be assigned '1', and the Oppose label should be assigned '2'.
 
+For example:
+
+```python
+
+{"index": 20568.png, "prediction": 2}
+{"index": 30987.png, "prediction": 0}
+{"index": 45805.png, "prediction": 1}
+```
+
 <h3>Subtask D</h3>
 
 The No Humor label should be assigned '0', and the Humor label should be assigned '1'. 
+
+For example:
+
+```python
+
+{"index": 20568.png, "prediction": 1}
+{"index": 30987.png, "prediction": 0}
+{"index": 45805.png, "prediction": 0}
+```
 
 For all Subtasks, the performance will be ranked by F1 score.
 
