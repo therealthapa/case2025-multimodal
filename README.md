@@ -73,6 +73,7 @@ Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2
 Extracted Text for Test Data: Available May 05, 2025
 
 ## Use of External Data ##
+
 The use of external datasets is permitted. You should also mention your external data usage in your paper write-up. A good competition-standard data that has hate speech and targets could be [CrisisHateMM dataset](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html), which can be found [here](https://github.com/therealthapa/case2024-multimodal-hate). We have provided all training, evaluation, and testing datasets with labels. This data was used in shared tasks on multimodal hate speech event detection during [CASE 2023](https://aclanthology.org/2023.case-1.20/) and [CASE 2024](https://aclanthology.org/2024.case-1.31/). 
 
 ## Evaluation ## 
@@ -148,9 +149,13 @@ To read more about the evaluation criteria, please refer to <a href="https://git
 
 For the hate detection task, the dataset has a balanced distribution of binary labels. The target classification task exhibits a heavily imbalanced distribution. Given the context of this study, most hateful images convey undirected hate or are targeted toward communities, with a low frequency of hate against individuals and organizations. For the stance classification task, the number of images is well-balanced across the three labels. On the other hand, as memes are often meant to be humorous, the majority of the images in the dataset are annotated as humor.
 
+## Sample Code ##
+
+Sample code for the PrideMM dataset is available at [MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP)
+
 ## Publication ##
 
-Participants in the Shared Task are expected to submit a paper to the CASE workshop. Submitting a paper is not mandatory for participating in the Shared Task. Papers must follow the CASE 2025 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the CASE workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the CASE 2025 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in the ACL Anthology.
 
 ## Timeline of the Events ##
 <ul>
