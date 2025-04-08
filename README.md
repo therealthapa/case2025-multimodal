@@ -112,6 +112,8 @@ For example:
 {"index": 20568.png, "prediction": 1}
 {"index": 30987.png, "prediction": 0}
 {"index": 45805.png, "prediction": 2}
+{"index": 52125.png, "prediction": 3}
+
 ```
 
 <h3>Subtask C</h3>
