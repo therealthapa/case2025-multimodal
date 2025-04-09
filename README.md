@@ -196,4 +196,6 @@ If there are any questions related to the competition, please contact shuvam@vt.
 ## References ##
 Will be provided later.
 
+## Anti-Harassment policy ##
 
+We uphold the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and participants in this shared task are encouraged to reach out with any concerns or questions to any of the shared task organizers.
