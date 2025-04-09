@@ -23,7 +23,7 @@ The complexity of text-embedded images presents a formidable challenge in machin
 **To know more about the dataset**: please refer to our [paper](https://doi.org/10.18653/v1/2024.emnlp-main.959).
 
 ## Participation ##
-Join our codalab competition here.
+Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/22463).
 
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
