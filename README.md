@@ -53,13 +53,13 @@ Evaluation Data Labels: https://drive.google.com/drive/folders/1DJaYJxRH7qBRwRSH
 
 **Test Data**
 
-Subtask A: Available May 05, 2025
+Subtask A: Available May 08, 2025
 
-Subtask B: Available May 05, 2025
+Subtask B: Available May 08, 2025
 
-Subtask C: Available May 05, 2025
+Subtask C: Available May 08, 2025
 
-Subtask D: Available May 05, 2025
+Subtask D: Available May 08, 2025
 
 Test Data Labels: Available June 25, 2025
 
@@ -70,7 +70,7 @@ Extracted Text for Train Data: https://drive.google.com/drive/folders/1YYUD8Dxhy
 
 Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2ZiWj50eqDGHB9YEBmw5u5ArO9oIe
 
-Extracted Text for Test Data: Available May 05, 2025
+Extracted Text for Test Data: Available May 08, 2025
 
 ## Use of External Data ##
 
@@ -162,9 +162,9 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 
 <li>Training & Evaluation data available: April 08, 2025 </li>
 
-<li>Test data available: May 05, 2025 </li>
+<li>Test data available: May 08, 2025 </li>
 
-<li>Testing Phase start: May 05, 2025 </li>
+<li>Testing Phase start: May 08, 2025 </li>
 
 <li>Test end: June 25, 2025 </li>
 
