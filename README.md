@@ -155,7 +155,7 @@ Sample code for the PrideMM dataset is available at [MemeCLIP](https://github.co
 
 ## Publication ##
 
-Participants in the Shared Task are expected to submit a paper to the CASE workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the CASE 2025 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in the ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the CASE workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the CASE 2025 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
 
 ## Timeline of the Events ##
 <ul>
