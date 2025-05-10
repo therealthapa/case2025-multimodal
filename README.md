@@ -1,8 +1,8 @@
-# Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in LGBTQ+ Socio-Political Movement Discourse at CASE 2025
+# Shared Task on Multimodal Detection of Hate Speech, Humor, and Stance in Marginalized Socio-Political Movement Discourse at CASE 2025
 
 [Competition Link](https://codalab.lisn.upsaclay.fr/competitions/22463) 
 
-The complexity of text-embedded images presents a formidable challenge in machine learning, given the need for a multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the LGBTQ+ movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
+The complexity of text-embedded images presents a formidable challenge in machine learning, given the need for a multimodal understanding of multiple aspects of expression conveyed by them. Particularly, the marginalized movement stands as a prominent subject of online discourse, where text-embedded images like memes serve as vehicles of both solidarity and resistance, reflecting the multifaceted dynamics of attitudes and perceptions within the community and beyond. In this context, the distinction between humor and harm becomes blurred, as memes straddle the line between satire and offense, challenging researchers and platforms alike to navigate the complexities of online content moderation. As one label generally fails to encompass multiple aspects of linguistics, this shared task classifies images on four aspects: hate, targets of hate, stance, and humor as subtasks.
 
 ## Subtask A ##
 
@@ -14,11 +14,11 @@ The complexity of text-embedded images presents a formidable challenge in machin
 
 ## Subtask C ##
 
-**Classification of Topical Stance:** The goal is to classify images based on their stance towards the LGBTQ+ movement. The dataset will have three labels: _Neutral_, _Support_, and _Oppose_.
+**Classification of Topical Stance:** The goal is to classify images based on their stance towards the marginalized movement. The dataset will have three labels: _Neutral_, _Support_, and _Oppose_.
 
 ## Subtask D ##
 
-**Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the LGBTQ+ Pride movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
+**Detection of Intended Humor:** The aim is to identify images showcasing humor, sarcasm, or satire related to the marginalized movement. The dataset for this task will have binary labels: _No Humor_ and _Humor_.
 
 **To know more about the dataset**: please refer to our [paper](https://doi.org/10.18653/v1/2024.emnlp-main.959).
 
