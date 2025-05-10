@@ -151,7 +151,7 @@ For the hate detection task, the dataset has a balanced distribution of binary l
 
 ## Sample Code ##
 
-Sample code for the PrideMM dataset is available at [MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP)
+Sample code for the dataset used in this task is available at [MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP)
 
 ## Publication ##
 
