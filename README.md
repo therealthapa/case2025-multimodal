@@ -77,7 +77,7 @@ Extracted Text for Train Data: https://drive.google.com/drive/folders/1YYUD8Dxhy
 
 Extracted Text for Evaluation Data: https://drive.google.com/drive/folders/1nKn2ZiWj50eqDGHB9YEBmw5u5ArO9oIe
 
-Extracted Text for Test Data: Available May 08, 2025
+Extracted Text for Test Data: Refer above for CSV file (index, text)
 
 ## Use of External Data ##
 
