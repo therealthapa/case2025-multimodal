@@ -51,15 +51,22 @@ Subtask D: https://drive.google.com/drive/folders/1UbukqpwOQTRQnEXyceK2Dw48ObpFq
 
 Evaluation Data Labels: https://drive.google.com/drive/folders/1DJaYJxRH7qBRwRSHXGhr1PU98HyK9sBJ
 
-**Test Data**
+**Test Data**  
+Subtask A:  
+Image folder: https://drive.google.com/drive/folders/1ZjAblselR78Ns-z28XtAlq1bIQWJF_YZ?usp=sharing  
+CSV file (index, text): https://drive.google.com/file/d/14D5xTWLPI7p8TeRejigQWHl4uQKZD5hT/view?usp=sharing  
 
-Subtask A: Available May 08, 2025
+Subtask B:  
+Image folder: https://drive.google.com/drive/folders/1-3oNPdBOYFZWT_MhexeW_LGbgf-n0QVJ?usp=sharing  
+CSV file (index, text): https://drive.google.com/file/d/1SUXpfTuGdR89D29wfwVzGvmiHJNcQKCP/view?usp=sharing  
 
-Subtask B: Available May 08, 2025
+Subtask C:  
+Image folder: https://drive.google.com/drive/folders/1m2J2bfvpVvM7gC572sf0-fhfI65FSTNi?usp=sharing  
+CSV file (index, text): https://drive.google.com/file/d/1a29h5QSsH5WIHg7VD3Bgp1e8KAOjE_8D/view?usp=sharing  
 
-Subtask C: Available May 08, 2025
-
-Subtask D: Available May 08, 2025
+Subtask D:  
+Image folder: https://drive.google.com/drive/folders/1W3KsuDHozn66m-zmbtvuEEAvY-sUNplP?usp=sharing   
+CSV file (index, text): https://drive.google.com/file/d/1XzHE8RK1UgG9L7F_3C4jV27VyjjTvvVw/view?usp=sharing  
 
 Test Data Labels: Available June 25, 2025
 
