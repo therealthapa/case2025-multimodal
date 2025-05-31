@@ -198,7 +198,7 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 </ul>
 
 ## Contact ##
-If there are any questions related to the competition, please contact surendrabikram@vt.edu 
+If there are any questions related to the competition, please contact rauniyark11@gmail.com
 
 ## References ##
 Will be provided later.
