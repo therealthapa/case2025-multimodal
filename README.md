@@ -173,11 +173,11 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 
 <li>Testing Phase start: May 08, 2025 </li>
 
-<li>Test end: June 25, 2025 </li>
+<li>Test end: July 12, 2025 </li>
 
-<li>System Description Paper submissions due: July 10, 2025 </li>
+<li>System Description Paper submissions due: July 25, 2025 </li>
 
-<li>Notification to authors after review: August 10, 2025 </li>
+<li>Notification to authors after review: August 17, 2025 </li>
 
 <li>Camera ready: August 30, 2025 </li>
 
