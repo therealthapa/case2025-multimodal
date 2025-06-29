@@ -191,6 +191,7 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 <li> Shuvam Shiwakoti (Virginia Tech, USA) </li>
 <li> Kritesh Rauniyar (Delhi Technological University, India) </li>
 <li> Surabhi Adhikari (Columbia University, USA) </li>
+<li> Hariram Veeramani (UCLA, USA) </li>
 <li> Kristina T. Johnson (Northeastern University, USA) </li>
 <li> Hristo Tanev (European Commission, Joint Research Centre (EU JRC) </li>
 <li> Ali Hürriyetoğlu (KNAW Humanities Cluster DHLab, Netherlands) </li>
