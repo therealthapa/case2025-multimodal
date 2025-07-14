@@ -183,9 +183,9 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 
 <li>CASE Workshop: September 11-13, 2025 </li>
 
-<li>Revised Paper due for Conditionally Accepted Papers: Aug 24, 2025</li>
+<li>Revised Paper due for Conditionally Accepted Papers: August 24, 2025</li>
 
-<li>Final Notification for Conditionally Accepted Papers: Aug 25, 2025</li>
+<li>Final Notification for Conditionally Accepted Papers: August 25, 2025</li>
 </ul>
 
 ## Organizers ##
