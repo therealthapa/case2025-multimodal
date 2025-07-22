@@ -68,7 +68,7 @@ Subtask D:
 Image folder: https://drive.google.com/drive/folders/1W3KsuDHozn66m-zmbtvuEEAvY-sUNplP?usp=sharing   
 CSV file (index, text): https://drive.google.com/file/d/1XzHE8RK1UgG9L7F_3C4jV27VyjjTvvVw/view?usp=sharing  
 
-Test Data Labels: Available June 25, 2025
+Test Data Labels: https://drive.google.com/drive/folders/1nMGCcGSv6CB5GnZ7cyN2_fw1VUA1vUFS?usp=sharing
 
 ## Instructions for OCR Extraction ##
 If you want to extract OCR, you can use Google Vision API, tesseract, EasyOCR, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. A lot of participants do not have access to the vision API. They can use the extracted text used in our benchmark paper.
