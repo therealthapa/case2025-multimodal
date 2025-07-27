@@ -175,7 +175,7 @@ Participants in the Shared Task are expected to submit a paper to the CASE works
 
 <li>Test end: July 12, 2025 </li>
 
-<li>System Description Paper submissions due: <s>July 25, 2025</s> Aug 3, 2025</li>
+<li>System Description Paper submissions due: <s>July 25, 2025</s> August 4, 2025</li>
 
 <li>Notification to authors after review: August 17, 2025 </li>
 
